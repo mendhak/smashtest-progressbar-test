@@ -1,0 +1,22 @@
+{
+  "name": "smashtest-progressbar-test",
+  "version": "1.0.0",
+  "description": "Testing a git repo with smashtest --progress-bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendhak/smashtest-progressbar-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mendhak/smashtest-progressbar-test/issues"
+  },
+  "homepage": "https://github.com/mendhak/smashtest-progressbar-test#readme",
+  "dependencies": {
+    "smashtest": "git+https://github.com/slowmonkey/smashtest.git#issue-58-disable-progress-output"
+  }
+}
