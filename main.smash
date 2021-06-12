@@ -4,7 +4,7 @@ Open Chrome
 
         Verify [a, 'Raspberry Pi: Waveshare e-paper dashboard'] is visible
 
-            Wait '41' sec
+            Wait '4' sec
 
                 Click [a, 'Raspberry Pi: Waveshare e-paper dashboard']
 
@@ -12,6 +12,6 @@ Open Chrome
 
                         Go Back
 
-                            Wait '37' secs
+                            Wait '3' secs
 
                                 Go Forward
