@@ -4,10 +4,14 @@ Open Chrome
 
         Verify [a, 'Raspberry Pi: Waveshare e-paper dashboard'] is visible
 
-            Click [a, 'Raspberry Pi: Waveshare e-paper dashboard']
+            Wait '41' sec
 
-                Verify at page 'https://code.mendhak.com/raspberrypi-epaper-dashboard/'
+                Click [a, 'Raspberry Pi: Waveshare e-paper dashboard']
 
-                    Go Back
+                    Verify at page 'https://code.mendhak.com/raspberrypi-epaper-dashboard/'
 
-                        Go Forward
+                        Go Back
+
+                            Wait '37' secs
+
+                                Go Forward
