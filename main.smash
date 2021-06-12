@@ -1,0 +1,13 @@
+Open Chrome
+
+    Navigate to 'https://code.mendhak.com'
+
+        Verify [a, 'Raspberry Pi: Waveshare e-paper dashboard'] is visible
+
+            Click [a, 'Raspberry Pi: Waveshare e-paper dashboard']
+
+                Verify at page 'https://code.mendhak.com/raspberrypi-epaper-dashboard/'
+
+                    Go Back
+
+                        Go Forward
